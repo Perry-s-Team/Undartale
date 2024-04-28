@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4667617368772882692}
   - component: {fileID: 6006660524924670355}
   - component: {fileID: 5721523216668744052}
+  - component: {fileID: 3735791935210610760}
   m_Layer: 0
   m_Name: Peschera_Trigger
   m_TagString: Untagged
@@ -105,3 +106,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _object: {fileID: 0}
+--- !u!114 &3735791935210610760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4162848861388560451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff0819c990368e4da19c0951045137f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activeObject: {fileID: 0}

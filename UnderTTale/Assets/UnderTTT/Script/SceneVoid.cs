@@ -15,7 +15,7 @@ public class Scene_Void : MonoBehaviour
         
         while(color.a < 1f)
         {
-            color.a += fade_speed* Time.deltaTime;
+            color.a += fade_speed * Time.deltaTime;
             fade_image.color = color;
             yield return null;
         }
