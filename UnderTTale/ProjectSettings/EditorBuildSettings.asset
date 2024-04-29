@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/UnderTTT/Scenes/MainMenu.unity
     guid: 03876edb6aca4ac4cae6b236e9a90f99
   - enabled: 1
-    path: Assets/UnderTTT/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/UnderTTT/Scenes/StartScene.unity
+    guid: 8e76dd58044da7046b8256c360567e47
+  - enabled: 1
+    path: Assets/UnderTTT/Scenes/Peschera.unity
+    guid: d89e86b7d917b01479fe9e0f0b70c843
+  - enabled: 1
+    path: Assets/UnderTTT/Scenes/Lestnica.unity
+    guid: c63d4a9d6a6ffc5408aa169dd98709e9
+  - enabled: 1
+    path: Assets/UnderTTT/Scenes/FightMenu.unity
+    guid: 2d1a25d69b4c2da4781f8a6fac79b0bc
   m_configObjects: {}
