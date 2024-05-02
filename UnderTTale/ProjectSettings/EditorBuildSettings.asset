@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/UnderTTT/Scenes/FightMenu.unity
     guid: 2d1a25d69b4c2da4781f8a6fac79b0bc
+  - enabled: 1
+    path: Assets/UnderTTT/Scenes/Fight2.unity
+    guid: 247e753446f65c04ea156f154972c0bd
   m_configObjects: {}
